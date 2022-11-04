@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43550675934",
+    "project_id": "projectakhir4hacktiv8",
+    "storage_bucket": "projectakhir4hacktiv8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43550675934:android:5f9004d28790d0d696c34f",
+        "android_client_info": {
+          "package_name": "com.hacktiv8.travelapplicationhacktiv8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43550675934-7ped0049857o0si7koolfqbnasutas7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hacktiv8.travelapplicationhacktiv8",
+            "certificate_hash": "949465076ed075f2f877a2b2475cda530b6398c2"
+          }
+        },
+        {
+          "client_id": "43550675934-udljfcktjvh28lm6slqruu7a7jgkhfm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6ye9HxnTN295D5KdMKtrZETmBpSDkVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43550675934-udljfcktjvh28lm6slqruu7a7jgkhfm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
